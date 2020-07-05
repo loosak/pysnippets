@@ -1,2 +1,7 @@
 # pysnippets
-Various python snippets
+Various python snippets:
+
+| filename           | description        |
+|--------------------|--------------------|
+| plt_tutorial.ipynb | pyplot tutorial    |
+|||
